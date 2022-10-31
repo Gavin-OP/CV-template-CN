@@ -1,1 +1,1 @@
-# 中文简历库模板
+# $\LaTeX$ CV Template - Chinese Version
